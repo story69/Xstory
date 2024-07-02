@@ -1,2 +1,0 @@
-# Xstory
-Story Site
